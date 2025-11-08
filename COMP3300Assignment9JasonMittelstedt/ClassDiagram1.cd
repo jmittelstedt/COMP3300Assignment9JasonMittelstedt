@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="COMP3300Assignment9JasonMittelstedt.Models.BankAccount" Collapsed="true">
+    <Position X="2.75" Y="1.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABgAAAAAEAAAAAAABAgAAAAAAAQACAAAAAAA=</HashCode>
+      <FileName>Models\BankAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COMP3300Assignment9JasonMittelstedt.Models.CheckingAccount" Collapsed="true">
+    <Position X="1.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Models\CheckingAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COMP3300Assignment9JasonMittelstedt.Models.MoneyMarketAccount" Collapsed="true">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Models\MoneyMarketAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COMP3300Assignment9JasonMittelstedt.Models.SavingsAccount" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Models\SavingsAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
