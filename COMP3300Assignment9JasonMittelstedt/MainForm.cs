@@ -25,6 +25,7 @@ namespace COMP3300Assignment9JasonMittelstedt
             if (dialog.ShowDialog() == DialogResult.OK)
             {
                 string json = File.ReadAllText(dialog.FileName);
+                statementBox.Text = "Statement for " + dialog.SafeFileName;
                 var accounts = JsonSerializer.Deserialize<List<BankAccount>>(json, new JsonSerializerOptions
                 {
                     PropertyNameCaseInsensitive = true
